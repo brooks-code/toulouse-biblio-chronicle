@@ -33,8 +33,8 @@ Click the “Fork” button in the top-right corner of this page.
 ### 2. Clone your fork  
 
 ```bash
-git clone https://github.com/brooks-code/library-dataset-analysis.git
-cd library-dataset-analysis
+git clone https://github.com/brooks-code/toulouse-biblio-chronicle.git
+cd toulouse-biblio-chronicle
 ```
 
 ### 3. Create a branch
