@@ -339,7 +339,7 @@ It is provided under a [Creative Commons CC0 license](https://creativecommons.or
 
 ## Acknowledgments
 
-![footer image](</img/toulouse_arche_vue_jean_jaurès.jpg> "View of the Jean Jaurès alley from the arch.")
+![footer image](</img/toulouse_arche_vue_jean_jaurès.jpg> "View of the Jean Jaurès alley from the arch. Source: Buffi et associés.")
 
 Big thanks to the [Toulouse Metropolis open data portal](https://data.toulouse-metropole.fr/pages/accueil/) team for making these datasets publicly available:
 
