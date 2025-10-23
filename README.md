@@ -1,7 +1,7 @@
 # The Toulouse public library dataset
 **Echoes of a city’s quiet catalog**
 
-![header image](</img/mediatheque_jose_cabanis.jpg> "The toulouse public library.")
+![header image](</img/mediatheque_jose_cabanis.jpg> "The toulouse public library. Source: Toulouse Métropole")
 <br>*Médiathèque José Cabanis, Tolosa.*
 
 ## Genesis
@@ -45,6 +45,9 @@ The analysis is available as:
 
 - A standalone python script
 - A didactic jupyter notebook
+
+> [!NOTE]
+> A thorough exploratory dataset analysis is available on [Kaggle](https://www.kaggle.com/code/grimespoint/toulouse-public-library-loans-dataset-analysis) and in [this repository](https://github.com/brooks-code/toulouse-biblio-chronicle/blob/main/toulouse_library_dataset_analysis.ipynb)
 
 ## Encountered issues
 
